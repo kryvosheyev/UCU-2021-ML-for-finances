@@ -1,1 +1,1 @@
-# UCU-2021-ML-for-finances
+# UCU-Summer-School-2021
